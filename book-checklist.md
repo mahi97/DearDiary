@@ -39,17 +39,19 @@
 
 ## September 2020
 
-- [X] The People Vs. Tech -- Jamie Bartlett
+None! Shame on me.
 
 ## October 2020
 
-- [ ] The Idea Factory -- Pepper White
+None! But I had to study hard for midterms.
 
 ## November 2020
 
-- [ ] Spotify Teardown -- Anna Johansson
+- [ ] The Idea Factory -- Pepper White
+- [ ] The People Vs. Tech -- Jamie Bartlett
 
 ## December 2020
 
 - [ ] The Most Human, Human -- Brian Christian
+- [ ] Spotify Teardown -- Anna Johansson
 
