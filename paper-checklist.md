@@ -7,7 +7,7 @@ On Multi Agent
 - [X] QMix
 - [ ] QTran
 - [ ] DCG
-- [ ] 
+- [ ] Q-NASH
 
 On Memory Augemented Learning
 - [X] NTM
