@@ -1,4 +1,5 @@
 # Books I've Read & Want to Read
+The Month shows the end-date or palnned end-date of reading. Some book stayed with me more than one month.
 
 ## January 2020
 
@@ -21,7 +22,7 @@
 ## May 2020
 
 - [X] The Baron in the Trees -- Italo Calvino
-
+- [X] There was God and nothing else -- Mostafa Chamran
 ## June 2020
 
 - [X] The Gambler -- Fyodor Dostoevsky
@@ -48,10 +49,12 @@ None! But I had to study hard for midterms.
 ## November 2020
 
 - [ ] The Idea Factory -- Pepper White
-- [ ] The People Vs. Tech -- Jamie Bartlett
+- [ ] A PhD Is Not Enough! -- Peter J. Feibelman
 
 ## December 2020
 
 - [ ] The Most Human, Human -- Brian Christian
 - [ ] Spotify Teardown -- Anna Johansson
+- [ ] The People Vs. Tech -- Jamie Bartlett
 
+## January 2020
