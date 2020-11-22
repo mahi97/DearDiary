@@ -5,7 +5,7 @@
 On Multi Agent
 - [X] VDN
 - [X] QMix
-- [ ] QTran
+- [X] QTran
 - [ ] DCG
 - [ ] Q-NASH
 
