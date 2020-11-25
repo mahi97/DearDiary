@@ -14,17 +14,19 @@
 - [x] Information Theory -- Hye Won Chung
 - [x] Enginering Random Process -- Joong Soo Ma
 - [ ] **Linear Algebra -- Gilbert Strang**
-- [ ] **Data Driven Decision-Making and Control -- Jinkyoo Park**
+- [x] **Data Driven Decision-Making and Control -- Jinkyoo Park**
 
 
 ## Winter 2021
 
-- [ ] **Convex Optimization I -- Stephen Boyd**
 - [ ] **Information Theory and Learning -- David MacKay**
-- [ ] **Artificial Intelligence Methods For Social Good -- Fei Fang**
 - [ ] **Deep Learning Foundation -- Soheil Feizi**
+- [ ] **Deep Multi-Task and Meta Learning -- Chelsea Finn**
+- [ ] **Deep Reinfocement Learning -- Sergey Levine** (2020)
 
 ## Spring 2021
 
+- [ ] **Convex Optimization I -- Stephen Boyd**
 - [ ] **Convex Optimization II -- Stephen Boyd**
+- [ ] **Artificial Intelligence Methods For Social Good -- Fei Fang**
 - [ ] **Advanced Topics In Machine Learning And Game Theory -- Fei Fang**
