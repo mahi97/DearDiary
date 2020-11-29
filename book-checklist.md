@@ -29,7 +29,7 @@ The Month shows the end-date or palnned end-date of reading. Some book stayed wi
 
 ## July 2020
 
-- [X] The Art of the Good -- Rolf Dobelli
+- [X] The Art of the Good Life -- Rolf Dobelli
 - [X] The Housekeeper and the Professor -- Yōko Ogawa
 
 ## August 2020
