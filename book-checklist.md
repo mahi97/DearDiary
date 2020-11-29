@@ -48,13 +48,14 @@ None! But I had to study hard for midterms.
 
 ## November 2020
 
-- [ ] The Idea Factory -- Pepper White
-- [ ] A PhD Is Not Enough! -- Peter J. Feibelman
+- [X] The Idea Factory -- Pepper White
 
 ## December 2020
 
-- [ ] The Most Human, Human -- Brian Christian
-- [ ] Spotify Teardown -- Anna Johansson
+- [ ] A PhD Is Not Enough! -- Peter J. Feibelman
 - [ ] The People Vs. Tech -- Jamie Bartlett
 
 ## January 2020
+
+- [ ] The Most Human, Human -- Brian Christian
+- [ ] Spotify Teardown -- Anna Johansson
