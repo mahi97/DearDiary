@@ -11,8 +11,8 @@ On Multi Agent
 
 On Memory Augemented Learning
 - [X] NTM
-- [ ] MANN
-- [ ] DNC
+- [X] MANN
+- [X] DNC
 
 On RL
 
