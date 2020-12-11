@@ -13,7 +13,7 @@
 - [x] GameTheory and Multi-Agent Reinforcement Learning -- Jinkyoo Park
 - [x] Information Theory -- Hye Won Chung
 - [x] Enginering Random Process -- Joong Soo Ma
-- [ ] **Linear Algebra -- Gilbert Strang**
+- [x] **Linear Algebra -- Gilbert Strang**
 - [x] **Data Driven Decision-Making and Control -- Jinkyoo Park**
 
 
