@@ -14,8 +14,15 @@ On Memory Augemented Learning
 - [X] MANN
 - [X] DNC
 
-On RL
-
-- [ ] Offilne RL
 
 ## December 2020
+
+On Multi Agent
+- [X] DCG
+- [X] Q-NASH
+
+
+On RL
+
+- [X] Rainbow
+- [ ] Offilne RL
