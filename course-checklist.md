@@ -28,5 +28,9 @@
 
 - [ ] **Convex Optimization I -- Stephen Boyd**
 - [ ] **Convex Optimization II -- Stephen Boyd**
+
+
+## Backlog
+
 - [ ] **Artificial Intelligence Methods For Social Good -- Fei Fang**
 - [ ] **Advanced Topics In Machine Learning And Game Theory -- Fei Fang**
