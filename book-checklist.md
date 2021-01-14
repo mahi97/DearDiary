@@ -53,8 +53,8 @@ None! But I had to study hard for midterms.
 ## December 2020
 
 - [X] A PhD Is Not Enough! -- Peter J. Feibelman
-- [ ] Will Power -- Roy F. Baumeister
-- [ ] The People Vs. Tech -- Jamie Bartlett
+- [ ] ~~Will Power -- Roy F. Baumeister~~
+- [ ] ~~The People Vs. Tech -- Jamie Bartlett~~
 
 ## January 2020
 
