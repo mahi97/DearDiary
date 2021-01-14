@@ -58,5 +58,32 @@ None! But I had to study hard for midterms.
 
 ## January 2020
 
+- [ ] Will Power -- Roy F. Baumeister
+- [ ] The People Vs. Tech -- Jamie Bartlett
+
+## February 2021
+
 - [ ] The Most Human, Human -- Brian Christian
 - [ ] Spotify Teardown -- Anna Johansson
+
+## March 2021
+
+## April 2021
+
+## May 2021
+
+## June 2021
+
+## July 2021
+
+## August 2021
+
+## September 2021
+
+## October 2021
+
+## November 2021
+
+## December 2021
+
+## January 2022
