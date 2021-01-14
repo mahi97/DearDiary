@@ -2,7 +2,7 @@
 
 ## Spring 2020
 
-- [x] **Deep Reinfocement Learning -- Sergey Levine**
+- [x] **Deep Reinfocement Learning -- Sergey Levine** (2019)
 
 ## Summer 2020
 
