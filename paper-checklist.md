@@ -6,8 +6,8 @@ On Multi Agent
 - [X] VDN
 - [X] QMix
 - [X] QTran
-- [ ] DCG
-- [ ] Q-NASH
+- ~~[ ] DCG~~
+- ~~[ ] Q-NASH~~
 
 On Memory Augemented Learning
 - [X] NTM
@@ -23,6 +23,15 @@ On Multi Agent
 
 
 On RL
-
 - [X] Rainbow
-- [ ] Offilne RL
+- [X] Offilne RL
+
+## January 2021
+
+## February 2021
+
+## March 2021
+
+## April 2021
+
+## May 2021
