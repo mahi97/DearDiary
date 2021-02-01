@@ -58,19 +58,24 @@ None! But I had to study hard for midterms.
 
 ## January 2020
 
-- [ ] Will Power -- Roy F. Baumeister
-- [ ] The People Vs. Tech -- Jamie Bartlett
+- [x] Will Power -- Roy F. Baumeister
+- [ ] ~~The People Vs. Tech -- Jamie Bartlett~~
 
 ## February 2021
 
-- [ ] The Most Human, Human -- Brian Christian
-- [ ] Spotify Teardown -- Anna Johansson
+**Focusing on Research**
 
 ## March 2021
 
+- [ ] The People Vs. Tech -- Jamie Bartlett
+
 ## April 2021
 
+- [ ] The Most Human, Human -- Brian Christian
+
 ## May 2021
+
+- [ ] Spotify Teardown -- Anna Johansson
 
 ## June 2021
 
