@@ -19,7 +19,7 @@
 
 ## Winter 2021
 
-- [ ] **Information Theory and Learning -- David MacKay**
+- [X] **Information Theory and Learning -- David MacKay**
 - [ ] **Deep Learning Foundation -- Soheil Feizi**
 - [x] **Deep Multi-Task and Meta Learning -- Chelsea Finn**
 - [x] **Deep Reinfocement Learning -- Sergey Levine** (2020)
@@ -28,6 +28,10 @@
 
 - [ ] **Convex Optimization I -- Stephen Boyd**
 - [ ] **Convex Optimization II -- Stephen Boyd**
+- [ ] Deep learning technology for computer vision and robotics -- In-So Kweon
+- [ ] Data Mining and Search -- Kijung Shin
+- [ ] Mathematical Foundations of Reinforcement Learning -- Youngchul Sung
+- [ ] Graph Machine Learning and Mining -- JOYCE JIYOUNG WHANG
 
 
 ## Backlog
