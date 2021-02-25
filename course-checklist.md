@@ -29,7 +29,7 @@
 - [ ] **Convex Optimization I -- Stephen Boyd**
 - [ ] **Convex Optimization II -- Stephen Boyd**
 - [ ] **Graph Neural Networks -- Alejandro Ribeiro**
-- [ ] Deep learning technology for computer vision and robotics -- In-So Kweon
+- [ ] Deep Learning Technology for Computer Vision and Robotics -- In-So Kweon
 - [ ] Data Mining and Search -- Kijung Shin
 - [ ] Mathematical Foundations of Reinforcement Learning -- Youngchul Sung
 - [ ] Graph Machine Learning and Mining -- JOYCE JIYOUNG WHANG
