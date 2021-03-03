@@ -21,7 +21,7 @@
 
 - [X] **Information Theory and Learning -- David MacKay**
 - [X] **Deep Learning Foundation -- Soheil Feizi** *(Half)*
-- [x] **Deep Multi-Task and Meta Learning -- Chelsea Finn**
+- [x] [**Deep Multi-Task and Meta Learning -- Chelsea Finn**](http://cs330.stanford.edu/fall2019/index.html)
 - [x] **Deep Reinfocement Learning -- Sergey Levine** (2020)
 
 ## Spring 2021
