@@ -20,7 +20,7 @@
 ## Winter 2021
 
 - [X] **Information Theory and Learning -- David MacKay**
-- [ ] **Deep Learning Foundation -- Soheil Feizi**
+- [X] **Deep Learning Foundation -- Soheil Feizi** *(Half)*
 - [x] **Deep Multi-Task and Meta Learning -- Chelsea Finn**
 - [x] **Deep Reinfocement Learning -- Sergey Levine** (2020)
 
@@ -28,7 +28,7 @@
 
 - [ ] **Convex Optimization I -- Stephen Boyd**
 - [ ] **Convex Optimization II -- Stephen Boyd**
-- [ ] **Graph Neural Networks -- Alejandro Ribeiro**
+- [ ] [**Graph Neural Networks -- Alejandro Ribeiro**](https://gnn.seas.upenn.edu/)
 - [ ] Deep Learning Technology for Computer Vision and Robotics -- In-So Kweon
 - [ ] Data Mining and Search -- Kijung Shin
 - [ ] Mathematical Foundations of Reinforcement Learning -- Youngchul Sung
