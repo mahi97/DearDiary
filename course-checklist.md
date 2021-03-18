@@ -28,11 +28,12 @@
 
 - [ ] **Convex Optimization I -- Stephen Boyd**
 - [ ] **Convex Optimization II -- Stephen Boyd**
-- [ ] [**Graph Neural Networks -- Alejandro Ribeiro**](https://gnn.seas.upenn.edu/)
-- [ ] Deep Learning Technology for Computer Vision and Robotics -- In-So Kweon
-- [ ] Data Mining and Search -- Kijung Shin
-- [ ] Mathematical Foundations of Reinforcement Learning -- Youngchul Sung
-- [ ] Graph Machine Learning and Mining -- JOYCE JIYOUNG WHANG
+- [X] [**Graph Neural Networks -- Alejandro Ribeiro**](https://gnn.seas.upenn.edu/)
+- [X] Deep Learning Technology for Computer Vision and Robotics -- In-So Kweon
+- [X] Data Mining and Search -- Kijung Shin
+- [X] Advance Deep Learning -- Jinwoo Shin
+- [ ] ~~Mathematical Foundations of Reinforcement Learning -- Youngchul Sung~~
+- [ ] ~~Graph Machine Learning and Mining -- JOYCE JIYOUNG WHANG~~
 
 
 ## Backlog
