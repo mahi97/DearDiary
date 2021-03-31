@@ -67,21 +67,25 @@ None! But I had to study hard for midterms.
 
 ## March 2021
 
-- [ ] The People Vs. Tech -- Jamie Bartlett
+- [X] A Fraction of the Whole -- Steve Toltz
+- [X] Human Compatible -- Stuart J. Russell
 
 ## April 2021
 
-- [ ] The Most Human, Human -- Brian Christian
 
 ## May 2021
 
-- [ ] Spotify Teardown -- Anna Johansson
-
 ## June 2021
+
+- [ ] Spotify Teardown -- Anna Johansson
 
 ## July 2021
 
+- [ ] The Most Human, Human -- Brian Christian
+
 ## August 2021
+
+- [ ] The People Vs. Tech -- Jamie Bartlett
 
 ## September 2021
 
