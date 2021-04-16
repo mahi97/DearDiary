@@ -16,6 +16,7 @@ The Month shows the end-date or palnned end-date of reading. Some book stayed wi
 - [X] Norwegian Wood -- Haruki Murakami
 
 ## April 2020
+
 - [X] Hear the Wind Sing -- Haruki Murakami
 - [X] If on a Winter's Night a Traveler -- Italo Calvino
 
@@ -23,6 +24,7 @@ The Month shows the end-date or palnned end-date of reading. Some book stayed wi
 
 - [X] The Baron in the Trees -- Italo Calvino
 - [X] There was God and nothing else -- Mostafa Chamran
+
 ## June 2020
 
 - [X] The Gambler -- Fyodor Dostoevsky
@@ -56,7 +58,7 @@ None! But I had to study hard for midterms.
 - [ ] ~~Will Power -- Roy F. Baumeister~~
 - [ ] ~~The People Vs. Tech -- Jamie Bartlett~~
 
-## January 2020
+## January 2021
 
 - [x] Will Power -- Roy F. Baumeister
 - [ ] ~~The People Vs. Tech -- Jamie Bartlett~~
@@ -69,10 +71,13 @@ None! But I had to study hard for midterms.
 
 - [X] A Fraction of the Whole -- Steve Toltz
 - [X] Human Compatible -- Stuart J. Russell
+- [X] The Brothers Karamazov -- Fyodor Dostoevsky (6/13)
 
 ## April 2021
 
-- [X] The Brothers Karamazov -- Fyodor Dostoevsky
+- [X] The Brothers Karamazov -- Fyodor Dostoevsky (13/13)
+- [X] Nineteen Eighty-Four -- George Orwell
+- [X] The Alchemist -- Paulo Coelho
 
 ## May 2021
 
